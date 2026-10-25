@@ -8,7 +8,7 @@ PAGES = [
     ('index.html', 'about', 'About me', 'About'),
     ('publications.html', 'publications', 'Publications', 'Publications'),
     ('projects.html', 'projects', 'Research projects', 'Projects'),
-    ('teaching.html', 'teaching', 'Teaching and mentoring', 'Teaching'),
+    ('teaching.html', 'teaching', 'Mentoring and teaching', 'Teaching'),
     ('cv.html', 'cv', 'Curriculum vitae', 'CV'),
 ]
 profile = (ROOT / 'content/profile.html').read_text()
