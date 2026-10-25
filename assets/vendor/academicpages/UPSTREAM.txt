@@ -1,0 +1,5 @@
+Academic Pages: https://github.com/academicpages/academicpages.github.io
+Commit: 7b958332ce9970cfb6987a049d7684ac615397e8
+Original MIT license retained in LICENSE.
+Styles compiled from unmodified upstream Sass sources using Sass 1.77.8.
+Layout adapted to static HTML; see scripts/build.py.
