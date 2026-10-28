@@ -8,6 +8,7 @@ PAGES = [
     ('index.html', 'about', 'About me', 'About'),
     ('publications.html', 'publications', 'Publications', 'Publications'),
     ('projects.html', 'projects', 'Research projects', 'Projects'),
+    ('talks.html', 'talks', 'Talks', 'Talks'),
     ('teaching.html', 'teaching', 'Mentoring and teaching', 'Teaching'),
     ('cv.html', 'cv', 'Curriculum vitae', 'CV'),
 ]

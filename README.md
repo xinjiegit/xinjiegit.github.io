@@ -13,7 +13,9 @@ python3 -m http.server 8000 --bind 127.0.0.1
 
 Visit http://127.0.0.1:8000. Commit the generated root HTML files along with source changes. `style.css` contains local theme adjustments. The PDF CV remains at `cv.pdf` and its LaTeX source at `CV.tex`.
 
-Pages: `index.html`, `publications.html`, `projects.html`, `teaching.html`, and `cv.html`. Legacy homepage section links redirect to their corresponding pages through `navigation.js`.
+Pages: `index.html`, `publications.html`, `projects.html`, `talks.html`, `teaching.html`, and `cv.html`. Legacy homepage section links redirect to their corresponding pages through `navigation.js`.
+
+Talk PDFs are stored in `slides/`; add entries in `content/talks.html`.
 
 ## Theme provenance
 
